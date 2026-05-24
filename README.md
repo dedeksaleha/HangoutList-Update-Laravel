@@ -1,17 +1,17 @@
-# 📌 Proyek Hangout List - Tugas Eloquent ORM
+# Proyek Hangout List - Tugas Eloquent ORM
 
 Aplikasi web Laravel 11 untuk mengelola data tempat hangout menggunakan **Eloquent ORM** dan **Relasi Antar Tabel**.
 
 ---
 
-## ✅ Pemenuhan Tugas 
+## Pemenuhan Tugas 
 * **Model & Migration:** Menggunakan Model `Hangout` dan `Category`.
 * **Relasi Tabel:** Hubungan *One-to-Many* antara Tabel Kategori dan Tempat Hangout.
 * **Fitur Filter:** Menggunakan fungsi `where()` untuk pencarian data.
 
 ---
 
-## 🛠️ Implementasi Kode Method Eloquent
+## Implementasi Kode Method Eloquent
 
 Berikut adalah fungsi wajib yang sudah diterapkan di `HangoutController.php`:
 
